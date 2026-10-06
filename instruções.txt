@@ -1,0 +1,4 @@
+- Formatar o cartão com o programa fat32format, escolhendo a opção allocation unit size 32768
+- Copiar para dentro a iso SF3500_sdcard_v1.1_b (mais nova e funcionou no meu)
+- Se colocar os jogos novos, para aparecer tem que rodar o make-filelist.bat dentro do diretório dos jogos para gerar o filelist.csv
+- 
